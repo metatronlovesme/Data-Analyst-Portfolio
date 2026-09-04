@@ -2,7 +2,7 @@ Data Analyst & ML Portfolio
 
 Hi, I'm Evans Amoah — a Business Data Analyst & ML Specialist with 5+ years of experience in data cleaning, statistical modeling, and AI model evaluation. This repo collects my data science and analytics projects, from raw data to deployed insight.
 
-📧 evansinforwork@gmail.com  |  LinkedIn
+📧 evansinforwork@gmail.com  |  LinkedIn https://www.linkedin.com/in/evansamoah
 
 Projects
 🚗 Vehicle Loan Default Prediction
